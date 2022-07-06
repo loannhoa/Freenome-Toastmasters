@@ -19,7 +19,7 @@ Please use the [Sign in sheet](https://docs.google.com/spreadsheets/d/1jW4MePiey
 
 <html>
   <body>
-    <a href="https://github.com/loannhoa/toastmasters.wiki.git"><img src="https://user-images.githubusercontent.com/99045240/177595562-2a5ec00e-9e45-4a0f-875b-d2c981b6f0c8.png"alt="About me html" style="width:100px;height:100px;"></a>
+    <a href="https://loannhoa.github.io/AboutMe/"><img src="https://user-images.githubusercontent.com/99045240/177595562-2a5ec00e-9e45-4a0f-875b-d2c981b6f0c8.png"alt="About me html" style="width:100px;height:100px;"></a>
   </body>
   </html>
  
@@ -37,7 +37,7 @@ Please use the [Sign in sheet](https://docs.google.com/spreadsheets/d/1jW4MePiey
 
 # Still in the works using markdown
 
-[![About us](https://user-images.githubusercontent.com/99045240/177595562-2a5ec00e-9e45-4a0f-875b-d2c981b6f0c8.png)](https://github.com/loannhoa/toastmasters.wiki.git)
+[![About us](https://user-images.githubusercontent.com/99045240/177595562-2a5ec00e-9e45-4a0f-875b-d2c981b6f0c8.png)](https://loannhoa.github.io/AboutMe/)
 
 [![Contact Us](https://user-images.githubusercontent.com/99045240/177601604-0ab03954-820d-4c9d-8d1f-602ffdc600a7.png)](https://github.com/loannhoa/toastmasters.wiki.git)
 
