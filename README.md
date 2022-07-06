@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-
+<img src="https://user-images.githubusercontent.com/99045240/177595562-2a5ec00e-9e45-4a0f-875b-d2c981b6f0c8.png" width="100" height="100">(https://github.com/loannhoa/toastmasters.wiki.git)
 
 [![About us](https://user-images.githubusercontent.com/99045240/177595562-2a5ec00e-9e45-4a0f-875b-d2c981b6f0c8.png)](https://github.com/loannhoa/toastmasters.wiki.git)
 
