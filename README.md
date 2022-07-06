@@ -29,4 +29,6 @@ Please use the [Sign in sheet](https://docs.google.com/spreadsheets/d/1jW4MePiey
   </body>
   </html>
   
-[![About us](https://user-images.githubusercontent.com/99045240/177595562-2a5ec00e-9e45-4a0f-875b-d2c981b6f0c8.png =100x100)](https://github.com/loannhoa/toastmasters.wiki.git)
+[![About us](https://user-images.githubusercontent.com/99045240/177595562-2a5ec00e-9e45-4a0f-875b-d2c981b6f0c8.png width=100px]](https://github.com/loannhoa/toastmasters.wiki.git)
+
+[[https://user-images.githubusercontent.com/99045240/177595562-2a5ec00e-9e45-4a0f-875b-d2c981b6f0c8.png|width=400px]](https://github.com/loannhoa/toastmasters.wiki.git)
