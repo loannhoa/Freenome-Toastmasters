@@ -1,8 +1,8 @@
-## Toastmasters
+# Toastmasters
+
+## Mission
 
 Our mission is to provide an opportunity for any Freenomer to improve their leadership, communication, and presentation skills by offering membership in a corporate [Toastmasters](https://www.toastmasters.org/) Club.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
