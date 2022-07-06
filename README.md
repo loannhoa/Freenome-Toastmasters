@@ -25,7 +25,32 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-122.39344,37.65381],
+              [-122.38259,38.64458],
+              [-122.39344,37.65381],
+              [-122.38259,38.64458],
+              [-122.39344,37.65381]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 
