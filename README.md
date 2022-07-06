@@ -11,9 +11,12 @@ Bi-weekly meetings
 12:00-1:00 PM PT Thursday
 Meetings will be held remotely
 
+##Data
+Please use the [Sign in sheet](https://docs.google.com/spreadsheets/d/1jW4MePieySrMCQtQaZQiDxJsRtbIGqPNCfw_ZUXUnb8/edit#gid=0) to sign up for roles! :)
 
 [![About us](https://user-images.githubusercontent.com/99045240/177595562-2a5ec00e-9e45-4a0f-875b-d2c981b6f0c8.png)](https://github.com/loannhoa/toastmasters.wiki.git)
 
 [![Contact Us](https://user-images.githubusercontent.com/99045240/177601604-0ab03954-820d-4c9d-8d1f-602ffdc600a7.png)](https://github.com/loannhoa/toastmasters.wiki.git)
 
 [![Resources](https://user-images.githubusercontent.com/99045240/177601777-895dad4a-d815-4aa3-8248-1a9b545ac013.png)](https://github.com/loannhoa/toastmasters.wiki.git)
+
