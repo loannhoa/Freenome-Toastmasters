@@ -21,5 +21,6 @@ Meetings will be held remotely
 
 [![Contact Us](https://github.com/loannhoa/Freenome-Toastmasters/blob/15efc6e2ab112f91d2d396f23121747b37c5fa25/button/Contact%20Us%20.png)](https://loannhoa.github.io/Contact-Us/)
 
+[![About-Us](https://github.com/loannhoa/Freenome-Toastmasters/blob/a3295241fbd4cf684f9b87586ce3c7bf76974936/button/About%20Us%20.png)](https://loannhoa.github.io/About-Us/)
 
-![made by loann](https://github.com/loannhoa)
+[made by loann](https://github.com/loannhoa)
