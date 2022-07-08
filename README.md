@@ -20,3 +20,6 @@ Meetings will be held remotely
 [![Resources](https://github.com/loannhoa/Freenome-Toastmasters/blob/15efc6e2ab112f91d2d396f23121747b37c5fa25/button/Resources.png)](https://loannhoa.github.io/Resources/)
 
 [![Contact Us](https://github.com/loannhoa/Freenome-Toastmasters/blob/15efc6e2ab112f91d2d396f23121747b37c5fa25/button/Contact%20Us%20.png)](https://loannhoa.github.io/Contact-Us/)
+
+
+![made by loann](https://github.com/loannhoa)
