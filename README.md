@@ -14,13 +14,10 @@ Meetings will be held remotely
 >Please use the [Sign in sheet](https://docs.google.com/spreadsheets/d/1jW4MePieySrMCQtQaZQiDxJsRtbIGqPNCfw_ZUXUnb8/edit#gid=0) to sign up for roles! :)
 
 ## Sources
-   
-[![About Us](https://github.com/loannhoa/Freenome-Toastmasters/blob/15efc6e2ab112f91d2d396f23121747b37c5fa25/button/About%20Us%20.png)](https://loannhoa.github.io/About-Us/)
+[![About Us ](https://user-images.githubusercontent.com/99045240/178068409-2ff1e7ac-f65e-4316-b608-daf50bfc200d.png)](https://loannhoa.github.io/About-Us/)
 
-[![Resources](https://github.com/loannhoa/Freenome-Toastmasters/blob/15efc6e2ab112f91d2d396f23121747b37c5fa25/button/Resources.png)](https://loannhoa.github.io/Resources/)
+[![Resources](https://user-images.githubusercontent.com/99045240/178068492-b5f5799c-a140-4315-a7ee-b462ae361eec.png)](https://loannhoa.github.io/Resources/)
 
-[![Contact Us](https://github.com/loannhoa/Freenome-Toastmasters/blob/15efc6e2ab112f91d2d396f23121747b37c5fa25/button/Contact%20Us%20.png)](https://loannhoa.github.io/Contact-Us/)
-
-[![About-Us](https://github.com/loannhoa/Freenome-Toastmasters/blob/a3295241fbd4cf684f9b87586ce3c7bf76974936/button/About%20Us%20.png)](https://loannhoa.github.io/About-Us/)
+[![Contact Us ](https://user-images.githubusercontent.com/99045240/178068531-73148de1-c9a5-4c3f-ae4f-2b2328b0a3d4.png)](https://loannhoa.github.io/Contact-Us/)
 
 [made by loann](https://github.com/loannhoa)
