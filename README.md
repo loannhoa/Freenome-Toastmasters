@@ -1,17 +1,17 @@
 ## Mission
 
-Our mission is to provide an opportunity for any Freenomer to improve their leadership, communication, and presentation skills by offering membership in a corporate [Toastmasters](https://www.toastmasters.org/) Club.
+> Our mission is to provide an opportunity for any Freenomer to improve their leadership, communication, and presentation skills by offering membership in a corporate [Toastmasters](https://www.toastmasters.org/) Club.
 
 ## Meeting
 
-Meeting Time: 
+>Meeting Time: 
 Bi-weekly meetings 
 12:00-1:00 PM PT Thursday
 Meetings will be held remotely
 
 ## Data
 
-Please use the [Sign in sheet](https://docs.google.com/spreadsheets/d/1jW4MePieySrMCQtQaZQiDxJsRtbIGqPNCfw_ZUXUnb8/edit#gid=0) to sign up for roles! :)
+>Please use the [Sign in sheet](https://docs.google.com/spreadsheets/d/1jW4MePieySrMCQtQaZQiDxJsRtbIGqPNCfw_ZUXUnb8/edit#gid=0) to sign up for roles! :)
 
 ## Sources
    
