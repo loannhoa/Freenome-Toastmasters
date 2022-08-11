@@ -7,7 +7,7 @@
 >Meeting Time: 
 Bi-weekly meetings 
 12:00-1:00 PM PT Thursday
-Meetings will be held remotely
+Meetings are hybrid
 
 ## Data
 
